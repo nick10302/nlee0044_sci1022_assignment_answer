@@ -17,5 +17,5 @@ less hamlet.txt
 Is thought-sicke at the act
 
 
-nlee0044@MVAZ1STUL01026 ~$ grep Hamlet hamlet.txt | wc
+grep Hamlet hamlet.txt | wc
     108     694    4226
